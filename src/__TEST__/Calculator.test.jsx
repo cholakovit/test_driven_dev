@@ -1,6 +1,6 @@
 import React from 'react'
 import Calculator from '../components/Calculator'
-import { fireEvent, render, unmountComponentAtNode } from '@testing-library/react'
+import { fireEvent, render } from '@testing-library/react'
 
 
 let getByTestId
